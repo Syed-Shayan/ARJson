@@ -1,0 +1,185 @@
+{
+            "books": [{
+                    "id": "C_shar",
+                    "title": "C# - Black Book",
+                    "creator": "Matt Telles",
+                    "coverImg": "https://ibb.co/HF34x5F",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+                    "shortDesc": "C# (pronounced see sharp, like the musical note C♯, but written with the number sign) is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component- oriented programming disciplines.",
+                    "videoUrl": "https://www.youtube.com/watch?v=paJUbVeKEOU&ab_channel=CBTNuggets",
+                    "videoButton": "https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                    "videoSource": "youtube",
+                    "subjectHeadings": [
+                        "Human evolution",
+                        "Society",
+                        "Human behavior"
+                    ],
+                    "physicalLocation": {
+                        "name": "42 Collection",
+                        "lighthouseTarget": "lighthouse1",
+                        "shortDesc": "This collection is a veritable treasure trove of the educational, weird and wonderful! You will find books on popular science, history and philosphy of science and things you didn't even know you had a question for."
+                    },
+                    "thumbLighthouse": "https://ibb.co/p2bKR3h",
+                    "callCode": "FA 4839"
+                },
+                {
+                   "id":"Geneti",
+                   "title":"Hands-on Genetic Algorithms with Python",
+                   "creator":"Eyal Wirsansky",
+                   "coverImg":"https://ibb.co/vcjyhSJ",
+                   "wikipediaUrl":"https://en.wikipedia.org/wiki/Genetic_algorithm",
+                   "shortDesc":"This book gives you experience making genetic algorithms work for you, using easy-to-follow example problems that you can fall back upon when learning to use other machine learning tools and techniques. ... then progress toward optimizing one genetic algorithm with another, and finally genetic programming.",
+                   "videoUrl":"https://www.youtube.com/watch?v=nhT56blfRpE&ab_channel=KieCodes",
+                   "videoButton":"https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                   "videoSource":"youtube",
+                   "subjectHeadings":[
+                      "Futurology",
+                      "Society",
+                      "Human behavior"
+                   ],
+                   "physicalLocation":{
+                      "name":"42 Collection",
+                      "lighthouseTarget":"lighthouse1",
+                      "shortDesc":"This collection is a veritable treasure trove of the educational, weird and wonderful! You will find books on popular science, history and philosphy of science and things you didn't even know you had a question for."
+                   },
+                   "thumbLighthouse":"https://ibb.co/p2bKR3h",
+                   "callCode":"FA 4713"
+                },
+                {
+                    "id": "Rus",
+                    "title": "Programming Rust",
+                    "creator": "Jim Blandy & Jason Orendorff",
+                    "coverImg": "https://ibb.co/fxdxG45",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Rust_(programming_language)",
+                    "shortDesc": "Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency. Rust is syntactically similar to C++, and provides memory safety without using garbage collection, but instead through the use of a borrow checking system.",
+                    "videoUrl": "https://www.youtube.com/watch?v=agzf6ftEsLU&ab_channel=Code%26Supply",
+                    "videoButton": "https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                    "videoSource": "youtube",
+                     "subjectHeadings": [
+                         "Human evolution",
+                         "Human genetics",
+                         "Human biology"
+                     ],
+                     "physicalLocation": {
+                         "name": "Main Book Collection",
+                         "lighthouseTarget": "lighthouse2",
+                         "shortDesc": "This is a collection of science books from all major fields of natural science and related fields. For books older than 2007, see the specific subject collections."
+                     },
+                     "thumbLighthouse": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/thumblighthouse2.jpg",
+                     "callCode": "599.9 Hum"
+                },
+
+                {
+                    "id": "Kotli",
+                    "title": "Kotline Standard Library cookbook ",
+                    "creator": "Samuel Urbanowicz",
+                    "coverImg": "https://ibb.co/NywKtbL",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+                    "shortDesc": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to inter operate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.",
+                    "videoUrl": "https://www.youtube.com/watch?v=7WVLyowTEZg&ab_channel=edureka%21",
+                    "videoButton": "https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                    "videoSource": "youtube",
+                    "subjectHeadings": [
+                        "Human evolution",
+                        "Human genetics",
+                        "Human biology"
+                    ],
+                    "physicalLocation": {
+                        "name": "Main Book Collection",
+                        "lighthouseTarget": "lighthouse2",
+                        "shortDesc": "This is a collection of science books from all major fields of natural science and related fields. For books older than 2007, see the specific subject collections."
+                    },
+                    "thumbLighthouse": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/thumblighthouse2.jpg",
+                    "callCode": "599.9 Hum"
+                },
+                {
+                    "id": "action-thrille",
+                    "title": "THE KNG OF DRUGS",
+                    "creator": "NORA BARRETT",
+                    "coverImg": "https://i.ibb.co/5BTntgs/action-thriller.jpg",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Category:Action_thriller_films",
+                    "shortDesc": "More than two decades after his death, Pablo Escobar remains as well known as he was during his heyday as the head of the Medellín drug cartel. His fixture in popular culture is largely thanks to countless books, movies, and songs.",
+                    "videoUrl": "https://www.youtube.com/watch?v=i7fxfyixMRA&ab_channel=EonTalk",
+                    "videoButton": "https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                    "videoSource": "youtube",
+                    "subjectHeadings": [
+                        "Futurology",
+                        "Society",
+                        "Human behavior"
+                    ],
+                    "physicalLocation": {
+                        "name": "SciFi Collection",
+                        "lighthouseTarget": "lighthouse3",
+                        "shortDesc": "This collection has around ten thousand SciFi books and videos. In this sandbox of the mind you will find the inception of many real scientific theories and technologies as well as ideas that will challenge and inspire."
+                    },
+                    "thumbLighthouse": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/thumblighthouse3.jpg",
+                    "callCode": "Hux:Bra"
+                },
+                {
+                    "id": "HC",
+                    "title": "Human Computer Interaction Fundamentals",
+                    "creator": "Andrew Sears Julie A. Jacko",
+                    "coverImg": "https://ibb.co/NLpsbRz",
+                    "wikipediaUrl": "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+                    "shortDesc": "This book is a rigorous review of the field of human-computer interactions. It provides historical background of different devices that exist and have existed for humans to interact with machines, and so on. As such, it does a good job.",
+                    "videoUrl": "https://www.youtube.com/watch?v=cUS_22_lDiM&ab_channel=AntonyConboy",
+                    "videoSource": "youtube",
+                    "videoButton": "https://codemyui.com/wp-content/uploads/2015/07/play-button-in-pure-css.gif",
+                    "subjectHeadings": [
+                        "Futurology",
+                        "Society",
+                        "Human behavior"
+                    ],
+                    "physicalLocation": {
+                        "name": "SciFi Collection",
+                        "lighthouseTarget": "lighthouse3",
+                        "shortDesc": "This collection has around ten thousand SciFi books and videos. In this sandbox of the mind you will find the inception of many real scientific theories and technologies as well as ideas that will challenge and inspire."
+                    },
+                    "thumbLighthouse": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/thumblighthouse3.jpg",
+                    "callCode": "Hux:Bra"
+                }
+            ],
+            "directions": [{
+                    "from": "42 Collection",
+                    "to": "Main Book Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-up.png",
+                    "distance": "30 m",
+                    "directions": "Go up the stairs, straight into the main library hall and pass the reception on your left"
+                },
+                {
+                    "from": "42 Collection",
+                    "to": "SciFi Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-right.png",
+                    "distance": "100 m",
+                    "directions": "Turn right, go to the end of the mesanine, and then turn right again through the corridor"
+                },
+                {
+                    "from": "Main Book Collection",
+                    "to": "SciFi Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-right.png",
+                    "distance": "130 m",
+                    "directions": "Go out of the main hall, down the stairs to the left, then go to the end of the mesanine, and turn right through the corridor"
+                },
+                {
+                    "from": "Main Book Collection",
+                    "to": "42 Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-right.png",
+                    "distance": "30 m",
+                    "directions": "Go out of the main hall, down the stairs to the left"
+                },
+                {
+                    "from": "SciFi Collection",
+                    "to": "42 Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-left.png",
+                    "distance": "100 m",
+                    "directions": "Go left through the corridor, turn left until you come to the stairs and turn left again"
+                },
+                {
+                    "from": "SciFi Collection",
+                    "to": "Main Book Collection",
+                    "arrow": "https://ub-www01.uio.no/prosjekter/ar/wikitude/imgs/arrow-left.png",
+                    "distance": "130 m",
+                    "directions": "Go left through the corridor, turn left until you come to the stairs, go up the stairs straight into the main library hall and pass the reception on your left"
+                }
+            ]
+        }
